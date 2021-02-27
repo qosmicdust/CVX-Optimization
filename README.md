@@ -1,4 +1,4 @@
-# Optimization
+# Convex Optimization
 
 ## 다음의 과정을 통해, 진행상황에 맞게 꾸준히 때때로 업데이트 진행합니다. 
 
