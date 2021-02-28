@@ -6,9 +6,9 @@ Step 1: ['모두를 위한 최적화' 프로젝트](https://wikidocs.net/book/18
 
 주참고문헌 1.[A MOOC on convex optimization (Boyd and Vandenberghe), CVX101](http://web.stanford.edu/~boyd/cvxbook/)
          
-주참고문헌 2. [CMU stat(Javier Peña and Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+주참고문헌 2. [CMU stat(Javier Peña and Ryan Tibshirani)](http://www.stat.cmu.edu/~ryantibs/convexopt/)
                  
-부참고문헌   [한글강의 convex optimization)](https://lecture.cdsl.kr/cvxopt)
+부참고문헌   [한글강의 convex optimization](https://lecture.cdsl.kr/cvxopt)
 
 ---
 
