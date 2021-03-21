@@ -19,7 +19,4 @@ Step 2: ['모두를 위한 컨벡스 최적화(기본편)' 풀잎](https://home.
 Step 3: ['모두를 위한 컨벡스 최적화(알고리즘편)' 풀잎](https://home.modulabs.co.kr/product/14th-convex-optimization-for-all_algorithm/) 에 참여하여 지속적으로 피드백 반영 및 업데이트를 진행하고 있습니다. 
 
 --- 
-[Pattern Recognition and Machine Learning Toolbox](https://kr.mathworks.com/matlabcentral/fileexchange/55826-pattern-recognition-and-machine-learning-toolbox) 
-[Pattern Recognition and Machine Learning Toolbox github ](https://github.com/PRML/PRMLT)
 
-[Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"](https://github.com/ctgk/PRML) 
