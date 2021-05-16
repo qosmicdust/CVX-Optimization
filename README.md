@@ -13,6 +13,7 @@ Step 1: ['모두를 위한 최적화' 프로젝트](https://wikidocs.net/book/18
 ---
 
 Step 2: ['모두를 위한 컨벡스 최적화(기본편)' 풀잎](https://home.modulabs.co.kr/product/13th-convex-optimization/) 
+     Step 2-1: ['모두를 위한 컨벡스 최적화(개념편)' 풀잎](https://modulabs.co.kr/product/convex-optimization-concept//)
 
 ---
 
